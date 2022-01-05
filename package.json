@@ -1,0 +1,21 @@
+{
+  "name": "dropdown-vue-next",
+  "version": "1.0.0",
+  "description": "An easier way to display A Vue.js  dropdown component",
+  "main": "Dropdown.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tal7aouy/dropdown-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "dropdown",
+    "vue-dropdown",
+    "vue-dropdowns"
+  ],
+  "author": "Mhammed Talhaouy",
+  "license": "MIT"
+}

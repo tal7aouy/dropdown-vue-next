@@ -1,6 +1,6 @@
 {
   "name": "dropdown-vue-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easier way to display A Vue.js  dropdown component",
   "main": "Dropdown.vue",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tal7aouy/dropdown-vue.git"
+    "url": "git+https://github.com/tal7aouy/dropdown-vue-next.git"
   },
   "keywords": [
     "vue",
@@ -16,6 +16,16 @@
     "vue-dropdown",
     "vue-dropdowns"
   ],
-  "author": "Mhammed Talhaouy",
-  "license": "MIT"
+  "author": {
+    "email": "talhaouycoding@gmail.com",
+    "name": "Mhammed Talhaouy"
+  },
+   "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tal7aouy/dropdown-vue-next/issues"
+  },
+  "homepage": "https://github.com/tal7aouy/dropdown-vue-next#readme"
 }
